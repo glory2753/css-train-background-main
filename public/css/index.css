@@ -166,7 +166,7 @@
 
 .task31 {
   border-image-slice: 1%;
-  border-image-width: 40px;
+  border-image-width: 40px; 
   box-sizing: border-box;
   border-image-source: -webkit-linear-gradient(blue, green);
 }
